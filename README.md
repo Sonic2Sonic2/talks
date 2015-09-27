@@ -1,2 +1,2 @@
 # talks
-Talks from anywhere, includes their links and transcripts.
+Talks from anywhere, including their links and transcripts.
